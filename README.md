@@ -5,7 +5,7 @@ Modified Chinese Fonts compatible to MS Office and Safari for macOS
 ## TTF 字体名称显示
 微软 Office 2011、2016 for mac，在读取某些老旧的中文字体时，在字体菜单里只能显示其英文名称（如『楷体_GB2312』显示为 "KaiTi_GB2312" 等）。这是由于其没有读取正确的、与系统语言相对应的字体名称造成的。
 在使用这个脚本修改中文字体名称之后，可以使 Office 正确识别及显示这些中文字体，如图所示。
-[显示正确中文字体的字体菜单](./mac_fonts_preview.png)
+![](./mac_fonts_preview.png)
 
 ## 脚本运行需求
 需要安装 fonttools
