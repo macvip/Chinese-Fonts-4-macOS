@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.14">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Copyright(c) Founder Corporation.1998
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Founder:FZShuTi	Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      FZShuTi
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      Version 1.00
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      By Founder Corporation. ±±¥Û∑Ω’˝
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      方正舒体
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="25" langID="0x21" unicode="True">
+      FZShuTi
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright(c) Founder Corporation.1998
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      FZShuTi
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Founder:FZShuTi	Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      FZShuTi
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.00
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      FZSTK--GBK1-0
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      By Founder Corporation. 北大方正
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x804">
+      Copyright(c) Founder Corporation.1998
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+      方正舒体
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x804">
+      Founder:方正舒体	Regular
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+      方正舒体
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x804">
+      Version 1.00
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x804">
+      FZSTK--GBK1-0
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x804">
+      By Founder Corporation. 北大方正
+    </namerecord>
+  </name>
+
+</ttFont>
