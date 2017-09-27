@@ -5,6 +5,9 @@
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Copyright(c) Founder Corporation.1998
     </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="25" langID="0x0" unicode="True">
+      方正姚体
+    </namerecord>
     <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Regular
     </namerecord>
@@ -17,14 +20,11 @@
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Version 1.00
     </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      FZYaoTi
+    </namerecord>
     <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0" unicode="True">
       By Founder Corporation. ±±¥Û∑Ω’˝
-    </namerecord>
-    <namerecord nameID="1" platformID="1" platEncID="25" langID="0x21" unicode="True">
-      方正姚体
-    </namerecord>
-    <namerecord nameID="6" platformID="1" platEncID="25" langID="0x21" unicode="True">
-      FZYaoTi
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
       Copyright(c) Founder Corporation.1998
