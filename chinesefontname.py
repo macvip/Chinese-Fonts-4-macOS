@@ -19,7 +19,6 @@ chinese_record = name.find(record_template % ('3', '0x804', '1'))
 english_record = name.find(record_template % ('1', '0x0', '1'))
 english_record.text = chinese_record.text
 english_record.set('platEncID', '25');
-english_record.set('langID', '0x21');
 
 ET.write("test.xml", encoding="utf-8", xml_declaration=True)
 
